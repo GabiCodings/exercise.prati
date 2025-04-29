@@ -1,0 +1,23 @@
+{
+  "name": "exercise.prati",
+  "version": "1.0.0",
+  "description": "Resolvendo a lista de tarefas da +Prati",
+  "main": "L1Ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiCodings/exercise.prati.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabiCodings/exercise.prati/issues"
+  },
+  "homepage": "https://github.com/GabiCodings/exercise.prati#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
