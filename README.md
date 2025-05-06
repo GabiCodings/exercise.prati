@@ -88,6 +88,6 @@ node L1Ex1.js
 
 ### ❗ Dica
 
-Se tiver dúvidas ou encontrar qualquer erro durante a execução, abra uma [issue no repositório](https://github.com/GabiCodings/exercise.prati/issues).
+Se encontrar qualquer erro durante a execução, abra uma [issue no repositório](https://github.com/GabiCodings/exercise.prati/issues).
 
 ---
